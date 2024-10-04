@@ -1,0 +1,57 @@
+.popular-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 45rem; 
+  background-color: rgb(207, 237, 247);
+  gap: 2rem;
+}
+
+.popular-container h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+
+.popular-btn {
+  height: 2rem;
+  width: 2rem;
+  background-color: white;
+  border: none;
+  padding: 0;
+}
+.popular-heading2{
+  color: rgb(65, 64, 64);
+}
+.popular-heading{
+  font-size:1.5rem ;
+  font-weight: 550;
+  color: rgb(65, 64, 64);
+  
+}
+
+.popular-list {
+  display: flex;
+  flex-direction: column;
+  width: 65rem; 
+  background-color: white;
+  padding: 1.25rem; 
+  border-radius: 0.6rem; 
+}
+
+.popular-item {
+  margin-bottom: 0.625rem; 
+}
+
+.popular-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.popular-body {
+  margin-top: 0.625rem; 
+}
+

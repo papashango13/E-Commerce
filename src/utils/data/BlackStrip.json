@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "img":"./src/assets/images/LeadGenerationImages/BlackStrip/logoipsumLogo1.png"
+    },
+    {
+        "id":2,
+        "img":"./src/assets/images/LeadGenerationImages/BlackStrip/PowerXR2Logo2.png"
+    },
+    {
+        "id":3,
+        "img":"./src/assets/images/LeadGenerationImages/BlackStrip/logoipsumLogo3.png"
+    },
+    {
+        "id":4,
+        "img":"./src/assets/images/LeadGenerationImages/BlackStrip/CircleLogo4.png"
+    },
+    {
+        "id":5,
+        "img":"./src/assets/images/LeadGenerationImages/BlackStrip/IpsumLogo5.png"
+    },
+    {
+        "id":6,
+        "img":"./src/assets/images/LeadGenerationImages/BlackStrip/UltraPrestigiousLogo6.png"
+    }
+]

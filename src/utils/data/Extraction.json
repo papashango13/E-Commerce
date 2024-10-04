@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "heading":"Customizable Single Servings",
+        "description":"Compatible with Keurig K-Cup, other similar pods.",
+        "img":""
+    },
+    {
+        "id":2,
+        "heading":"Fully Automatic",
+        "description":"24-hour brew start, temperature control, auto off.",
+        "img":""
+    },
+    {
+        "id":3,
+        "heading":"12-Cup Brewing",
+        "description":"Customize with drip-programmable carafe brewing.",
+        "img":""
+    },
+    {
+        "id":4,
+        "heading":"Espresso Capsule Brewer",
+        "description":"Compatible with Nespresso OriginalLine capsules..",
+        "img":""
+    },
+    {
+        "id":5,
+        "heading":"Brew Pause Feature",
+        "description":"Sneak a cup before the full brew cycle is done.",
+        "img":""
+    },
+    {
+        "id":6,
+        "heading":"Steam Wand",
+        "description":"Steam wand whips up cappuccinos and lattes.",
+        "img":""
+    }
+
+]

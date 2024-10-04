@@ -1,0 +1,41 @@
+.yt-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .yt-video {
+    justify-content: center;
+    align-items: center;
+    height: 50rem;
+    display: flex;
+  }
+  
+  .yt-video iframe {
+    width: 70rem;
+    height: 40rem;
+    border-radius: 2rem;
+  }
+  @media (max-width: 768px) {
+    
+    .yt-video {
+      height: auto; 
+      width: 100%; 
+    }
+  
+    .yt-video iframe {
+      width: 100%; 
+      height: auto; 
+      max-width: 90%; 
+      margin-top: 2rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .yt-video iframe {
+      max-width: 100%; 
+      height: 15rem; 
+    }
+  }
+  

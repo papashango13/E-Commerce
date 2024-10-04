@@ -1,0 +1,141 @@
+.help-container {
+  background-image: url("./src/assets/images/ContactUs/HelpCenter/BgHC.png");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 48rem;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.help-heading {
+  margin-top: -19rem;
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.help-para {
+  text-align: center;
+  margin-top: -1.2rem;
+  font-size: 1.2rem;
+  color: white;
+}
+.help-search {
+  position: relative;
+  width: 48rem;
+  margin-top: 3rem;
+}
+
+.help-search input {
+  width: 100%;
+  height: 4rem;
+  border-radius: 2rem;
+  border: none;
+  box-sizing: border-box;
+}
+
+.help-search button {
+  position: absolute;
+  right: 0.2rem;
+  top: 0;
+  margin-top: 0.2rem;
+  margin-left: 5rem;
+  height: 3.6rem;
+  width: 8rem;
+  border-radius: 2rem;
+  color: white;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+}
+.help-search input {
+  padding-left: 2rem;
+}
+.help-search input::placeholder {
+  font-size: 1rem;
+}
+.help-order-return-parent {
+  display: flex;
+  justify-content: center;
+  margin-top: 9.5rem;
+  gap: 3rem;
+  position: absolute;
+}
+.help-tracking {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 14rem;
+  width: 25rem;
+  align-items: center;
+  border-radius: 2rem;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  background-color: whitesmoke;
+}
+.help-icon {
+  font-size: 2rem;
+}
+.help-tracking p {
+  font-weight: lighter;
+}
+.help-tracking h4 {
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+.help-tracking button {
+  border-radius: 1rem;
+  width: 12rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.help-tracking button:hover {
+  background-color: rgb(189, 177, 177);
+}
+
+.help-exchange {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 14rem;
+  width: 25rem;
+  align-items: center;
+  border-radius: 2rem;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  background-color: whitesmoke;
+}
+.help-icon {
+  font-size: 2rem;
+}
+.help-exchange p {
+  font-weight: lighter;
+}
+.help-exchange h4 {
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+.help-exchange button {
+  border-radius: 1rem;
+  width: 12rem;
+  height: 2.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.help-exchange button:hover {
+  background-color: rgb(189, 177, 177);
+}
+

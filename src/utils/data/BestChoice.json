@@ -1,0 +1,23 @@
+{
+    "bestChoices": [
+      {
+        "id": 1,
+        "img": "./src/assets/images/LandingImages/SuperiorTaste.png",
+        "name": "Superior Taste",
+        "description": "Experience coffee like never before with rich, bold flavour and a smooth finish."
+      },
+      {
+        "id": 2,
+        "img": "./src/assets/images/LandingImages/Fingertips.png",
+        "name": "Convenience at Fingertips",
+        "description": "With Programmable features and quick brew times,enjoy your perfect cup of coffee without the wait."
+      },
+      {
+        "id": 3,
+        "img": "./src/assets/images/LandingImages/EnergyEfficient.png",
+        "name": "Energy Efficient",
+        "description": "Our coffee makers are designed to be energy-efficient, saving you money on your electricity bills while being eco-friendly."
+      }
+    ]
+  }
+  

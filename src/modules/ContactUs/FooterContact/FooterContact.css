@@ -1,0 +1,102 @@
+.footercontact-container{
+    height: 32rem;
+}
+.footercontact-parent{
+    display: flex;
+    justify-content: center;
+   margin-top: 5rem;
+    gap: 11em;
+}
+.footercontact-input {
+    position: relative;
+    margin-top: 3rem;
+  }
+  .footercontact-vince img{
+    height: 2rem;
+  }
+  .footercontact-vince{
+    
+    margin-left: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 7rem;
+  }
+  
+  .footercontact-icon {
+    font-size: 2rem;
+    position: absolute;
+    margin-left: 0.5rem;
+    margin-top: 0.8rem;
+    z-index: 1;
+  }
+  
+  .footercontact-input input {
+    height: 3rem;
+    width: 20rem;
+    position: relative;
+    padding-left: 3rem;
+  }
+  
+  .footercontent-btn {
+    position: absolute;
+    right: 0.2rem;
+    top: 0.3rem;
+    height: 2.8rem;  
+    width: 6rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    z-index: 1;
+  }
+
+.footercontact-about{
+    display: flex;
+    flex-direction: column;
+    height: 18rem;
+    gap: 1rem;
+    
+}
+.footercontact-resource{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    
+    height: 18rem;
+}
+.footercontact-info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; 
+    height: 18rem;
+}
+.footercontact-help{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; 
+    height: 18rem;
+}
+.foot-link{
+    color: #333;
+    text-decoration: none;
+}
+.foot-link:hover{
+    color: rgb(207, 97, 115);
+}
+.footercontact-vince-link{
+    text-decoration: none;
+    color: #333;
+}
+
+.footercontact-bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 12rem;
+    padding-right: 11rem;
+}
+.footercontact-bottom-right img{
+    height: 1.8rem;
+    margin-top: 0.4rem;
+}
+.footercontact-hr{
+    width: 89rem;
+}

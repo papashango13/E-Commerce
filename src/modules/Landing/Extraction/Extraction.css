@@ -1,0 +1,36 @@
+.extraction-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.extraction-left-right-parent {
+    display: flex;
+    gap: 50px;
+}
+
+.extraction-left-json,
+.extraction-right-json {
+    display: flex;
+    flex-direction: column;
+    gap: 1  rem; 
+    width: 18rem;
+}
+
+.extraction-item {
+    display: flex;
+    align-items: center; 
+}
+
+.extraction-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.extraction-img img {
+    max-width: 100px; 
+    height: auto;
+    margin-right: 20px; 
+}

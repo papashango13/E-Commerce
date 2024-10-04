@@ -1,0 +1,152 @@
+.claim-container {
+    background-image: url('./src/assets/images/LeadGenerationImages/ClaimSeat/BgImage.png');
+    background-position: center;
+    height: 55rem;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.claim-heading {
+    font-weight: bolder;
+    font-size: 4rem;
+    margin-top: 5rem;
+    width: 57rem;
+    text-align: center;
+    margin-bottom: 4rem;
+    color: #00695f;
+}
+
+.claim-span {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.claim-input-parent {
+    border: 4px solid rgb(196, 30, 196);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 49rem;
+    height: 20rem;
+    margin-left: 4rem;
+    border-radius: 2rem;
+    background-color: white;
+    position: relative;
+}
+
+.claim-email-phone {
+    border-radius: 2rem;
+    margin-right: 1rem;
+    width: 21rem;
+    height: 4rem;
+    margin-bottom: 2rem;
+    background-color: rgb(236, 228, 228);
+    padding-left: 1rem;
+    border: none;
+    
+}
+
+.claim-email {
+    width: 44rem;
+    height: 4rem;
+    border-radius: 2rem;
+    margin-bottom: 3rem;
+    background-color: rgb(236, 228, 228);
+    direction: ltr;
+    padding-left: 2rem;
+    border: none;
+}
+
+.claim-email-phone::placeholder {
+    color: black;
+    font-size: 1.1rem;
+}
+
+.claim-email::placeholder {
+    color: black;
+    font-size: 1.1rem;
+}
+
+.claim-icon-btn {
+    margin-right: 0.4rem;
+    font-size: 1.2rem;
+    margin-top: 0.3rem;
+}
+
+.claim-btn {
+    height: 5rem;
+    width: 25rem;
+    border-radius: 2rem;
+    background-color: rgb(19, 177, 216);
+    color: white;
+    font-size: 1rem;
+    font-weight: bolder;
+    position: absolute;
+    margin-top: 20.4rem;
+    border: none;
+}
+
+.claim-btn:hover {
+    background-color: black;
+}
+.error-message {
+    color: #c52c2c; 
+    font-size: 1.2rem; 
+    margin-top: 1rem; 
+    text-align: center; 
+    background-color: rgba(255, 0, 0, 0.1); 
+    padding: 1rem; 
+    border-radius: 0.5rem; 
+    border: 1px solid #ff0000; 
+    width: 80%;
+    max-width: 400px; 
+    margin: 1rem auto;
+}
+
+
+@media (max-width: 430px) {
+    .claim-container {
+        height: auto;
+        padding: 2rem 1rem;
+        background-position: center;
+        margin-right: 1rem;
+    }
+
+    .claim-heading {
+        font-size: 2.5rem;
+        width: 100%;
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+
+    .claim-input-parent {
+        width: 90%;
+        margin-left: 0;
+        padding: 1.5rem;
+        height: auto;
+    }
+
+    .claim-email-phone {
+        width: 20rem;
+        margin-right: 0;
+        height: 3.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .claim-email {
+        width: 19rem;
+        height: 3.5rem;
+        margin-bottom: 2rem;
+        margin-left: -1rem;
+    }
+
+    .claim-btn {
+        width: 19rem;
+        margin-top: 19rem;
+        height: 4.5rem;
+    }
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "image": "./src/assets/images/ContactUs/HelpDesk/1.png",
+        "heading": "Size Guide",
+        "description": "Ensure your customers get the right fit",
+        "linkUrl": "https://appinventiv.com/",
+        "linkText": "View More"
+        
+      },
+      {
+        "image": "./src/assets/images/ContactUs/HelpDesk/2.png",
+        "heading": "Loyalty Program",
+        "description": "Offer exclusive rewards",
+        "linkText": "View More",
+        "linkUrl": "https://appinventiv.com/"
+      },
+      {
+        "image": "./src/assets/images/ContactUs/HelpDesk/3.png",
+        "heading": "Order & Shipping",
+        "description": "Looking for your order status",
+        "linkUrl": "https://appinventiv.com/",
+        "linkText": "View More"
+        
+      },
+      {
+        "image": "./src/assets/images/ContactUs/HelpDesk/4.png",
+        "heading": "Payment & Gift cards",
+        "description": "Wonder of what payment we accept?",
+        "linkUrl": "https://appinventiv.com/",
+        "linkText": "View More"
+       
+      },
+      {
+        "image": "./src/assets/images/ContactUs/HelpDesk/5.png",
+        "heading": "Discount Codes",
+        "description": "Have a discount you like to use?",
+        "linkUrl": "https://appinventiv.com/",
+        "linkText": "View More"
+    
+      },
+      {
+        "image": "./src/assets/images/ContactUs/HelpDesk/6.png",
+        "heading": "Store Location",
+        "description": "Wonder of what payment we accept?",
+        "linkUrl": "https://appinventiv.com/",
+        "linkText": "View More"
+       
+      }
+]
+
