@@ -1,5 +1,5 @@
 .clock-container {
-  background-image: url("/home/user/Practice/Ecomposer/Free_Plant/src/assets/images/LeadGenerationImages/ClockTicking/ProfilePhoto.png");
+  background-image: url("./src/assets/images/LeadGenerationImages/ClockTicking/ProfilePhoto.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
