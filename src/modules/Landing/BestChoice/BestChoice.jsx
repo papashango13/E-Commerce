@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import './BestChoice.css';
-import bestChoicesData from '/home/user/Practice/Ecomposer/Free_Plant/src/utils/data/BestChoice.json'; 
+import bestChoicesData from '../../../utils/data/BestChoice.json'; 
 
 const BestChoice = () => {
   const bestChoices = bestChoicesData.bestChoices; 
