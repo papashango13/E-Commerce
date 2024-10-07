@@ -1,7 +1,7 @@
 import React from 'react';
 import './Extraction.css';
-import ExtractionData from '/home/user/Practice/Ecomposer/Free_Plant/src/utils/data/Extraction.json'; 
-import CoffeeMachine2 from '/home/user/Practice/Ecomposer/Free_Plant/src/assets/images/LandingImages/CoffeeMachine2.png';
+import ExtractionData from '../../../utils/data/Extraction.json'; 
+import CoffeeMachine2 from '/src/assets/images/LandingImages/CoffeeMachine2.png';
 
 const Extraction = () => {
   return (
