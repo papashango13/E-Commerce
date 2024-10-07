@@ -7,7 +7,7 @@ const BlackStrip = () => {
         <div className="image-gallery">
       {BlackStripData.map((image,index) => (
         <div key={image.id} className="image-container">
-          <img src={image.img} />
+          <img src={image.img} alt="asas" />
         </div>
       ))}
     </div>
