@@ -9,7 +9,7 @@ const HostPage = () => {
       <div className="host-main-content-parent">
         <div className="host-left-child">
           <img
-            src="./src/assets/images/LeadGenerationImages/HostPage/DavidDoeImg.png"
+            src="	https://ecomposer-khoapham.myshopify.com/cdn/shop/…pmSecom-no-replace-2QLmz7vPqOFrame_1000004149.png"
             alt="David-Doe"
           />
           <h4 className="host-heading4">David DOE</h4>
