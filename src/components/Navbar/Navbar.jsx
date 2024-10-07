@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { RiArrowDownSLine } from "react-icons/ri";
-import logo from "/home/user/Practice/Ecomposer/Free_Plant/src/assets/images/NavbarImage/logo-text.png";
+import logo from "../../assets/images/NavbarImage/logo-text.png"
 import "./Navbar.css";
 
 const Navbar = () => {
