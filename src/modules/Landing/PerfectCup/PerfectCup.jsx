@@ -2,8 +2,8 @@ import React from "react";
 import "./PerfectCup.css";
 import { MdStars, MdVerified } from "react-icons/md";
 import { IoMdPlayCircle } from "react-icons/io";
-import CoffeeMachine from "/home/user/Practice/Ecomposer/Free_Plant/src/assets/images/LandingImages/CoffeeMachine.png";
-import GoodHousekeeping from "/home/user/Practice/Ecomposer/Free_Plant/src/assets/images/LandingImages/GoodHouskeeping.png";
+import CoffeeMachine from "/src/assets/images/LandingImages/CoffeeMachine.png";
+import GoodHousekeeping from "/src/assets/images/LandingImages/GoodHouskeeping.png";
 
 const PerfectCup = () => {
   return (
