@@ -11,7 +11,7 @@ const AddBenefits = () => {
         <div className="add-heading"><h1>Additional Benefits</h1></div>
       
       <div className="add-parent-left-right"><div className="add-left-side">
-        <img src="https://cdn.shopify.com/s/files/1/0623/8303/0317/f…o-replace-UzgJte0qv4Rectangle_15.jpg?v=1716445752" alt="" />
+        <img src="https://cdn.shopify.com/s/files/1/0623/8303/0317/files/ecom-no-replace-UzgJte0qv4Rectangle_15.jpg?v=1716445752" alt="" />
       </div>
       <div className="add-right-side">
         <div className="add-icon-para">
