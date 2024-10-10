@@ -69,8 +69,8 @@ const FooterContact = () => {
       
         <div className="footercontact-bottom-right">
           <img
-            src="./src/assets/images/ContactUs/FooterContact/logos.png"
-            alt=""
+            src="https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ZTbOOI3C6atrust-hc.png?v=1724641892"
+            alt="img"
           />
         </div>
       </div>
