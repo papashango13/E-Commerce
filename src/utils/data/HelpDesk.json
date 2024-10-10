@@ -1,6 +1,6 @@
 [
     {
-        "image": "./src/assets/images/ContactUs/HelpDesk/1.png",
+        "image": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-TSKqG0pC2uic-hp-1.png?v=1724407135",
         "heading": "Size Guide",
         "description": "Ensure your customers get the right fit",
         "linkUrl": "https://appinventiv.com/",
@@ -8,14 +8,14 @@
         
       },
       {
-        "image": "./src/assets/images/ContactUs/HelpDesk/2.png",
+        "image": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ry1vhOiRg8ic-hp-2.png?v=1724407185",
         "heading": "Loyalty Program",
         "description": "Offer exclusive rewards",
         "linkText": "View More",
         "linkUrl": "https://appinventiv.com/"
       },
       {
-        "image": "./src/assets/images/ContactUs/HelpDesk/3.png",
+        "image": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-1hx43OngFRic-hp-3.png?v=1724407203",
         "heading": "Order & Shipping",
         "description": "Looking for your order status",
         "linkUrl": "https://appinventiv.com/",
@@ -23,7 +23,7 @@
         
       },
       {
-        "image": "./src/assets/images/ContactUs/HelpDesk/4.png",
+        "image": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-JYbi3Qpv20ic-hp-4.png?v=1724634293",
         "heading": "Payment & Gift cards",
         "description": "Wonder of what payment we accept?",
         "linkUrl": "https://appinventiv.com/",
@@ -31,7 +31,7 @@
        
       },
       {
-        "image": "./src/assets/images/ContactUs/HelpDesk/5.png",
+        "image": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-NcXYj3LOv3ic-hp-5.png?v=1724634338",
         "heading": "Discount Codes",
         "description": "Have a discount you like to use?",
         "linkUrl": "https://appinventiv.com/",
@@ -39,7 +39,7 @@
     
       },
       {
-        "image": "./src/assets/images/ContactUs/HelpDesk/6.png",
+        "image": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-zO0BfEcTlSic-hp-6.png?v=1724634383",
         "heading": "Store Location",
         "description": "Wonder of what payment we accept?",
         "linkUrl": "https://appinventiv.com/",
