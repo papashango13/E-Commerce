@@ -16,7 +16,7 @@ const Questions = () => {
       </div>
       <div className="questions-connect-info">
         <div className="questions-reach">
-          <Link to=""><img src="./src/assets/images/ContactUs/Questions/1.png" alt="img1" /></Link>
+          <Link to=""><img src="https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-YGrRM9IVGXicon-lc-1.png?v=1724638892" alt="img1" /></Link>
           <p className="questions-para2">Call</p>
           <Link className="questions-anchor" to="#">
             012-345-6789
@@ -24,7 +24,7 @@ const Questions = () => {
         </div>
         <hr className="questions-hr" />
         <div className="questions-reach">
-          <Link to=""><img src="./src/assets/images/ContactUs/Questions/2.png" alt="img2" /></Link>
+          <Link to=""><img src="https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-Lv4LCle25Yicon-lc-2.png?v=1724639488" alt="img2" /></Link>
           <p className="questions-para2">Email</p>
           <Link className="questions-anchor" to="#">
             Contact Us
@@ -32,7 +32,7 @@ const Questions = () => {
         </div>
         <hr className="questions-hr" />
         <div className="questions-reach">
-          <Link to=""><img src="./src/assets/images/ContactUs/Questions/3.png" alt="img3" /></Link>
+          <Link to=""><img src="https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-nXKveOYRkzicon-lc-3.png?v=1724639522" alt="img3" /></Link>
           <p className="questions-para2">Chat</p>
           <Link className="questions-anchor" to="#">
             Chat Now
@@ -40,7 +40,7 @@ const Questions = () => {
         </div>
         <hr className="questions-hr" />
         <div className="questions-reach">
-          <Link to=""><img src="./src/assets/images/ContactUs/Questions/4.png" alt="img4" /></Link>
+          <Link to=""><img src="https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-qX7d2R8frVicon-lc-4.png?v=1724639557" /></Link>
           <p className="questions-para2">Message</p>
           <Link className="questions-anchor" to="#">
             Support Now
