@@ -32,7 +32,7 @@ const MasterClass = () => {
           </p>
         </div>
         <div className="master-right-card">
-            <img src="https://cdn.shopify.com/s/files/1/0623/8303/0317/f…o-replace-vcHvKXEfBPRectangle_10.jpg?v=1716435193" alt="" />
+            <img src="https://cdn.shopify.com/s/files/1/0623/8303/0317/files/ecom-no-replace-vcHvKXEfBPRectangle_10.jpg?v=1716435193" alt="" />
         </div>
       </div>
       </div>
