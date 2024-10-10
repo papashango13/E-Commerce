@@ -1,6 +1,10 @@
 import React from "react";
 import "./HostPage.css";
 import { FaRegHandPointRight } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
+import { SiSkype } from "react-icons/si";
+import { FaPinterest } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
 
 const HostPage = () => {
   return (
@@ -34,19 +38,19 @@ const HostPage = () => {
           <p className="host-para-follow">FOLLOW ON SOCIAL</p>
           <div className="host-icon-div">
             <img
-              src="./src/assets/images/LeadGenerationImages/HostPage/facebook.png"
+              src={<FaFacebook />}
               alt="facebook"
             />
             <img
-              src="./src/assets/images/LeadGenerationImages/HostPage/skype.png"
+              src={<SiSkype />}
               alt="skypee"
             />
             <img
-              src="./src/assets/images/LeadGenerationImages/HostPage/pinterest.png"
+              src={<FaPinterest />}
               alt="pinterest"
             />
             <img
-              src="./src/assets/images/LeadGenerationImages/HostPage/twitter.png"
+              src={<FaSquareXTwitter />}
               alt="Twitter"
             />
           </div>
