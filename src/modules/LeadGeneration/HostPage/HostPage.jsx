@@ -37,22 +37,11 @@ const HostPage = () => {
           </p>
           <p className="host-para-follow">FOLLOW ON SOCIAL</p>
           <div className="host-icon-div">
-            <img
-              src={<FaFacebook />}
-              alt="facebook"
-            />
-            <img
-              src={<SiSkype />}
-              alt="skypee"
-            />
-            <img
-              src={<FaPinterest />}
-              alt="pinterest"
-            />
-            <img
-              src={<FaSquareXTwitter />}
-              alt="Twitter"
-            />
+            <FaFacebook />
+            <SiSkype />
+            <FaPinterest />
+            <FaSquareXTwitter />
+            
           </div>
         </div>
       </div>
